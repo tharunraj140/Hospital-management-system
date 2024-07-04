@@ -5,19 +5,15 @@
 3.The password should be encrypted and the password field shouldn't be displayed in the admin panel.
 4.Implementation of pagination for all the list view across the application.
 
-Prerequisites
-Install XAMPP web server
-Any Editor (Preferably VS Code or Sublime Text)
-Any web browser with latest version
-Languages and Technologies used
-HTML5/CSS3
-JavaScript (to create dynamically updating content)
-Bootstrap (An HTML, CSS, and JS library)
-XAMPP (A web server by Apache Friends)
-Php
-MySQL (An RDBMS that uses SQL)
-TCPDF (to generate PDFs)
-Steps to run the project in your machine
+**Prerequisites**
+1.Install XAMPP web server
+2.Any Editor (Preferably VS Code or Sublime Text)
+3.Any web browser with latest version
+**Languages and Technologies used**
+1.HTML5/CSS3
+2.JavaScript (to create dynamically updating content)
+3.XAMPP (A web server by Apache Friends)
+**Steps to run the project in your machine**
 Download and install XAMPP in your machine
 Clone or download the repository
 Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
