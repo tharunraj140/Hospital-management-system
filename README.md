@@ -3,7 +3,7 @@
 1.Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
 2.User should not be allowed to register if he/she tries to provide the already registered email ID.
 3.The password should be encrypted and the password field shouldn't be displayed in the admin panel.
-4.Implementation of pagination for all the list view across the application.
+4.Implementation of pagination for all the list view across the application
 
 **Prerequisites**
 1.Install XAMPP web server
