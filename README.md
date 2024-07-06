@@ -5,6 +5,8 @@
 3.The password should be encrypted and the password field shouldn't be displayed in the admin panel.
 4.Implementation of pagination for all the list view across the application
 
+![DSCN0002](https://github.com/tharunraj140/Hospital-management-system/assets/159157241/15555f52-4ea6-4fe9-831e-1faf6982b32a)
+
 **Prerequisites**
 1.Install XAMPP web server
 2.Any Editor (Preferably VS Code or Sublime Text)
