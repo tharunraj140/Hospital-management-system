@@ -1,5 +1,5 @@
 # Hospital-management-system
-**#Need to work on:**
+## Need to work on
 1.Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
 2.User should not be allowed to register if he/she tries to provide the already registered email ID.
 3.The password should be encrypted and the password field shouldn't be displayed in the admin panel.
