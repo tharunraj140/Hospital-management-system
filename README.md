@@ -30,4 +30,3 @@
 4.Starting Apache And MySQL in XAMPP:<br>
 5.The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.<br>
 
-# GETTING INTO THE PROJECT:
